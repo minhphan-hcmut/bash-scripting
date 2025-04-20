@@ -14,9 +14,3 @@ The main purpose of this repository is to document my learning process and to sh
 Feel free to explore the repository and use any of the scripts or examples for your own learning. Contributions and suggestions are welcome!
 
 Happy scripting!
-
-<<<<<<< HEAD
-
-some changes
-=======
->>>>>>> b0da9050d60112fb616b394ec82ba979366b9860
