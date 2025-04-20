@@ -15,5 +15,8 @@ Feel free to explore the repository and use any of the scripts or examples for y
 
 Happy scripting!
 
+<<<<<<< HEAD
 
 some changes
+=======
+>>>>>>> b0da9050d60112fb616b394ec82ba979366b9860
